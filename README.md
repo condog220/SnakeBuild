@@ -7,3 +7,4 @@ Includes:
 - Powerups
 - Double Points for limited time
 - Relaxing music
+- A mute button incase the music gets annoying (it does)
